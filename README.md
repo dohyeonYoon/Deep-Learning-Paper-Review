@@ -7,6 +7,7 @@
 |Title|Original Paper Link|Paper Review|reviewer|
 |------|---|---|---|
 |HDRUNet: Single Image HDR Reconstruction with Denoising and Dequantization|[Link](https://arxiv.org/pdf/2105.13084)|[Link](https://dohyeon.tistory.com/96)|윤도현|
+|Replacing Mobile Camera ISP with a Single Deep Learning Model|[Link](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w31/Ignatov_Replacing_Mobile_Camera_ISP_With_a_Single_Deep_Learning_Model_CVPRW_2020_paper.pdf)|[Link](https://dohyeon.tistory.com/103)|윤도현|
 
 ### Depth Estimation (깊이 측정)
 |Title|Original Paper Link|Paper Review|reviewer|
