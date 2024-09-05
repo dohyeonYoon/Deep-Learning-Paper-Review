@@ -18,20 +18,20 @@
 |Title|Original Paper Link|Paper Review|reviewer|
 |------|---|---|---|
 |NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis|[Link](https://arxiv.org/abs/2003.08934)|[Link](https://dohyeon.tistory.com/92)|윤도현|
-|3D Gaussian Splatting for Real-Time Radiance Field Rendering|[Link](https://arxiv.org/pdf/2308.04079)|[Link](https://www.notion.so/3D-Gaussian-Splatting-for-Real-Time-Radiance-Field-Rendering-a96a0b27b33046b481566301d96449fa?pvs=4)|이하정|
+|3D Gaussian Splatting for Real-Time Radiance Field Rendering|[Link](https://arxiv.org/pdf/2308.04079)|[Link](https://ripe-myrtle-c69.notion.site/3D-Gaussian-Splatting-for-Real-Time-Radiance-Field-Rendering-a96a0b27b33046b481566301d96449fa?pvs=4)|이하정|
 
 ### Autonomous Driving (자율 주행)
 |Title|Original Paper Link|Paper Review|reviewer|
 |------|---|---|---|
 |DETR3D: 3D Object Detection from Multi-view Images via 3D-to-2D Queries|[Link](https://arxiv.org/pdf/2110.06922)|[Link](https://dohyeon.tistory.com/94)|윤도현|
-|Multi-Modal Fusion Transformer for End-to-End Autonomous Driving|[Link](https://arxiv.org/pdf/2104.09224)|[Link](https://www.notion.so/Multi-Modal-Fusion-Transformer-for-End-to-End-Autonomous-Driving-8398c1292035440a9afb4f1321533fc1?pvs=4)|이하정|
+|Multi-Modal Fusion Transformer for End-to-End Autonomous Driving|[Link](https://arxiv.org/pdf/2104.09224)|[Link](https://ripe-myrtle-c69.notion.site/Multi-Modal-Fusion-Transformer-for-End-to-End-Autonomous-Driving-8398c1292035440a9afb4f1321533fc1?pvs=4)|이하정|
 |BEVFusion: Multi-Task Multi-Sensor Fusion with Unified Bird’s-Eye View Representation|[Link](https://arxiv.org/pdf/2205.13542)|[Link](https://medium.com/@lth7234/bev-fusion-%EB%85%BC%EB%AC%B8-%EB%A6%AC%EB%B7%B0-059ebf6c23d8)|이태훈|
 
 ### LLM & Multi-modal (자연어처리 & 멀티모달)
 |Title|Original Paper Link|Paper Review|reviewer|
 |------|---|---|---|
-|Visual Instruction Tuning|[Link](https://arxiv.org/pdf/2304.08485)|[Link](https://www.notion.so/Visual-Instruction-Tuning-47d50207618e49af8b208cd367eb6bf1?pvs=4)|이하정|
-|LLaMA: Open and Efficient Foundation Language Models|[Link](https://arxiv.org/pdf/2302.13971)|[Link](https://www.notion.so/LLaMA-Open-and-Efficient-Foundation-Language-Models-984b585ae63d450a82489f781339b93e?pvs=4)|이하정|
+|Visual Instruction Tuning|[Link](https://arxiv.org/pdf/2304.08485)|[Link](https://ripe-myrtle-c69.notion.site/Visual-Instruction-Tuning-47d50207618e49af8b208cd367eb6bf1?pvs=4)|이하정|
+|LLaMA: Open and Efficient Foundation Language Models|[Link](https://arxiv.org/pdf/2302.13971)|[Link](https://ripe-myrtle-c69.notion.site/LLaMA-Open-and-Efficient-Foundation-Language-Models-984b585ae63d450a82489f781339b93e?pvs=4)|이하정|
 
 ### Model Compression (모델 경량화)
 |Title|Original Paper Link|Paper Review|reviewer|
@@ -41,7 +41,7 @@
 ### etc (기타)
 |Title|Original Paper Link|Paper Review|reviewer|
 |------|---|---|---|
-|DREAMFUSION: TEXT-TO-3D USING 2D DIFFUSION|[Link](https://arxiv.org/pdf/2209.14988)|[Link](https://www.notion.so/DREAMFUSION-TEXT-TO-3D-USING-2D-DIFFUSION-6fcf049f5ed94a45bcb2c0606329e027?pvs=4)|이하정|
+|DREAMFUSION: TEXT-TO-3D USING 2D DIFFUSION|[Link](https://arxiv.org/pdf/2209.14988)|[Link](https://ripe-myrtle-c69.notion.site/DREAMFUSION-TEXT-TO-3D-USING-2D-DIFFUSION-6fcf049f5ed94a45bcb2c0606329e027?pvs=4)|이하정|
 |PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation|[Link](https://arxiv.org/pdf/1612.00593)|[Link](https://docs.google.com/presentation/d/1PpHCc6Soce7L5RebuxaLdj0kdA9G9seTRJrd4LEVOcY/edit#slide=id.p)|이태훈|
 |Swin Transformer: Hierarchical Vision Transformer using Shifted Windows|[Link](https://arxiv.org/pdf/2103.14030)|[Link](https://medium.com/@lth7234/%EB%85%BC%EB%AC%B8%EB%A6%AC%EB%B7%B0-swin-transformer-hierarchical-vision-transformer-using-shifted-windows-bcb530509f4d)|이태훈|
 
