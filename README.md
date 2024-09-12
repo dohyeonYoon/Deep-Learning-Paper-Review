@@ -69,7 +69,39 @@ $ git push origin feature/ydh #작업 브랜치에 푸시
 ```
 
 ### 👨🏼‍💻 Members
-|윤도현|이하정|이태훈|
-|---|---|---|
-|<a href="https://github.com/dohyeonYoon"><img src="https://github.com/dohyeonYoon.png" width="100"></a>|<a href="https://github.com/SS-hj"><img src="https://github.com/SS-hj.png" width="100"></a>|<a href="https://github.com/taehunlee990803"><img src="https://github.com/taehunlee990803.png" width="100"></a>|
-|❤️ Image Enhancement & 3D Computer Vision|❤️ 3D Reconstruction|❤️ Automous Driving|
+
+<table align="center">
+  <tr height="35px">
+    <td align="center" width="320px">
+      <a> 윤도현 </a>
+    </td>
+    <td align="center" width="320px">
+      <a> 이하정 </a>
+    </td>
+    <td align="center" width="320px">
+      <a> 이태훈 </a>
+    </td>
+  </tr>
+  <tr height="35px">
+    <td align="center" width="320px">
+      <a href="https://github.com/dohyeonYoon"><img src="https://github.com/dohyeonYoon.png" width="100"></a>
+    </td>
+    <td align="center" width="320px">
+      <a href="https://github.com/SS-hj"><img src="https://github.com/SS-hj.png" width="100">
+    </td>
+    <td align="center" width="320px">
+      <a href="https://github.com/taehunlee990803"><img src="https://github.com/taehunlee990803.png" width="100">
+    </td>
+  </tr>
+  <tr height="35px">
+    <td align="center" width="320px">
+      <a> Image Enhancement <br> 3D Computer Vision </a>
+    </td>
+    <td align="center" width="320px">
+      <a> Computer Vision <br> Computer Graphics <br> Multi-modal </a>
+    </td>
+    <td align="center" width="320px">
+      <a> Automous Driving </a>
+    </td>
+  </tr>
+</table>
