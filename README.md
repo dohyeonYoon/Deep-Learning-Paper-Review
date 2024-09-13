@@ -32,6 +32,7 @@
 |------|---|---|---|
 |Visual Instruction Tuning|[Link](https://arxiv.org/pdf/2304.08485)|[Link](https://ripe-myrtle-c69.notion.site/Visual-Instruction-Tuning-47d50207618e49af8b208cd367eb6bf1?pvs=4)|이하정|
 |LLaMA: Open and Efficient Foundation Language Models|[Link](https://arxiv.org/pdf/2302.13971)|[Link](https://ripe-myrtle-c69.notion.site/LLaMA-Open-and-Efficient-Foundation-Language-Models-984b585ae63d450a82489f781339b93e?pvs=4)|이하정|
+|Text2Loc: 3D Point Cloud Localization from Natural Language|[Link](https://arxiv.org/pdf/2311.15977)|[Link](https://docs.google.com/presentation/d/1LekRr87Gu6Ealb8aZ4uac3q0ifQ9iFtw/edit?usp=sharing&ouid=102530899453259820171&rtpof=true&sd=true)|이하정|
 
 ### Model Compression (모델 경량화)
 |Title|Original Paper Link|Paper Review|reviewer|
