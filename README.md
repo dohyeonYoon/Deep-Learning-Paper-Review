@@ -10,6 +10,11 @@
 |Replacing Mobile Camera ISP with a Single Deep Learning Model|[Link](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w31/Ignatov_Replacing_Mobile_Camera_ISP_With_a_Single_Deep_Learning_Model_CVPRW_2020_paper.pdf)|[Link](https://dohyeon.tistory.com/103)|윤도현|
 |RawHDR: High Dynamic Range Image Reconstruction from a Single Raw Image|[Link](https://openaccess.thecvf.com/content/ICCV2023/papers/Zou_RawHDR_High_Dynamic_Range_Image_Reconstruction_from_a_Single_Raw_ICCV_2023_paper.pdf)|[Link](https://dohyeon.tistory.com/104)|윤도현|
 
+### Object Detection & Segmentation (객체 탐지 & 분할)
+|Title|Original Paper Link|Paper Review|reviewer|
+|------|---|---|---|
+|DETRs with Collaborative Hybrid Assignments Training|[Link](https://openaccess.thecvf.com//content/ICCV2023/papers/Zong_DETRs_with_Collaborative_Hybrid_Assignments_Training_ICCV_2023_paper.pdf)|[Link](https://dohyeon.tistory.com/105)|윤도현|
+
 ### Depth Estimation (깊이 측정)
 |Title|Original Paper Link|Paper Review|reviewer|
 |------|---|---|---|
