@@ -49,13 +49,14 @@
 |Title|Original Paper Link|Paper Review|reviewer|
 |------|---|---|---|
 |Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold|[Link](https://arxiv.org/pdf/2305.10973)|[Link](https://ripe-myrtle-c69.notion.site/Drag-Your-GAN-Interactive-Point-based-Manipulation-on-the-Generative-Image-Manifold-c94c214577654a98844de9d368421640?pvs=4)|이하정|
- 
+
 ### etc (기타)
 |Title|Original Paper Link|Paper Review|reviewer|
 |------|---|---|---|
 |DREAMFUSION: TEXT-TO-3D USING 2D DIFFUSION|[Link](https://arxiv.org/pdf/2209.14988)|[Link](https://ripe-myrtle-c69.notion.site/DREAMFUSION-TEXT-TO-3D-USING-2D-DIFFUSION-6fcf049f5ed94a45bcb2c0606329e027?pvs=4)|이하정|
 |PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation|[Link](https://arxiv.org/pdf/1612.00593)|[Link](https://docs.google.com/presentation/d/1PpHCc6Soce7L5RebuxaLdj0kdA9G9seTRJrd4LEVOcY/edit#slide=id.p)|이태훈|
 |Swin Transformer: Hierarchical Vision Transformer using Shifted Windows|[Link](https://arxiv.org/pdf/2103.14030)|[Link](https://medium.com/@lth7234/%EB%85%BC%EB%AC%B8%EB%A6%AC%EB%B7%B0-swin-transformer-hierarchical-vision-transformer-using-shifted-windows-bcb530509f4d)|이태훈|
+|Grounding Image Matching in 3D with MASt3R|[Link](https://arxiv.org/pdf/2406.09756)|[Link](https://ripe-myrtle-c69.notion.site/Grounding-Image-Matching-in-3D-with-MASt3R-89c57e70062545cea2bacc283d54751b?pvs=4)|이하정|
 
 ### ✅ 약속
 - 다음 발표자는 일요일 밤 23:59까지 본인이 리뷰할 논문을 [Issue](https://github.com/dohyeonYoon/Deep-Learning-Paper-Review/issues)에 등록해주세요.
