@@ -19,6 +19,7 @@
 |Title|Original Paper Link|Paper Review|reviewer|
 |------|---|---|---|
 |HITNet: Hierarchical Iterative Tile Refinement Network for Real-time Stereo Matching|[Link](https://arxiv.org/pdf/2007.12140)|[Link](https://dohyeon.tistory.com/91)|윤도현|
+|UniDepth: Universal Monocular Metric Depth Estimation|[Link](https://arxiv.org/pdf/2403.18913)|[Link](https://dohyeon.tistory.com/110)|윤도현|
 
 ### 3D Reconstruction (3차원 복원)
 |Title|Original Paper Link|Paper Review|reviewer|
