@@ -59,7 +59,7 @@
 |Swin Transformer: Hierarchical Vision Transformer using Shifted Windows|[Link](https://arxiv.org/pdf/2103.14030)|[Link](https://medium.com/@lth7234/%EB%85%BC%EB%AC%B8%EB%A6%AC%EB%B7%B0-swin-transformer-hierarchical-vision-transformer-using-shifted-windows-bcb530509f4d)|이태훈|
 |Grounding Image Matching in 3D with MASt3R|[Link](https://arxiv.org/pdf/2406.09756)|[Link](https://ripe-myrtle-c69.notion.site/Grounding-Image-Matching-in-3D-with-MASt3R-89c57e70062545cea2bacc283d54751b?pvs=4)|이하정|
 |ProlificDreamer: High-Fidelity and Diverse Text-to-3D Generation with Variational Score Distillation|[Link](https://arxiv.org/pdf/2305.16213)|[Link](https://ripe-myrtle-c69.notion.site/ProlificDreamer-High-Fidelity-and-Diverse-Text-to-3D-Generation-with-Variational-Score-Distillation-412db25bbdb0490b910ecd0b8e3ccb65?pvs=4)|이하정|
-
+|FaceNet: A Unified Embedding for Face Recognition and Clustering|[Link](https://arxiv.org/abs/1503.03832)|[Link](https://dohyeon.tistory.com/111)|윤도현|
 
 ### ✅ 약속
 - 다음 발표자는 일요일 밤 23:59까지 본인이 리뷰할 논문을 [Issue](https://github.com/dohyeonYoon/Deep-Learning-Paper-Review/issues)에 등록해주세요.
