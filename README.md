@@ -50,6 +50,7 @@
 |Title|Original Paper Link|Paper Review|reviewer|
 |------|---|---|---|
 |Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold|[Link](https://arxiv.org/pdf/2305.10973)|[Link](https://ripe-myrtle-c69.notion.site/Drag-Your-GAN-Interactive-Point-based-Manipulation-on-the-Generative-Image-Manifold-c94c214577654a98844de9d368421640?pvs=4)|이하정|
+|4D Gaussian Splatting for Real-Time Dynamic Scene Rendering|[Link](https://arxiv.org/pdf/2310.08528v2)|[Link](https://ripe-myrtle-c69.notion.site/4D-Gaussian-Splatting-for-Real-Time-Dynamic-Scene-Rendering-fe242863bf4a411d8cce5c5bd2d03658?pvs=4)|이하정|
 
 ### etc (기타)
 |Title|Original Paper Link|Paper Review|reviewer|
