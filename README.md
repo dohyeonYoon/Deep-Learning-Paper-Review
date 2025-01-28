@@ -26,6 +26,7 @@
 |------|---|---|---|
 |NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis|[Link](https://arxiv.org/abs/2003.08934)|[Link](https://dohyeon.tistory.com/92)|윤도현|
 |3D Gaussian Splatting for Real-Time Radiance Field Rendering|[Link](https://arxiv.org/pdf/2308.04079)|[Link](https://ripe-myrtle-c69.notion.site/3D-Gaussian-Splatting-for-Real-Time-Radiance-Field-Rendering-a96a0b27b33046b481566301d96449fa?pvs=4)|이하정|
+|Scaffold-GS: Structured 3D Gaussians for View-Adaptive Rendering|[Link](https://arxiv.org/pdf/2312.00109)|[Link](https://ripe-myrtle-c69.notion.site/Scaffold-GS-Structured-3D-Gaussians-for-View-Adaptive-Rendering-ee44e2813ac2417fafc26968620b5360?pvs=4)|이하정|
 
 ### Autonomous Driving (자율 주행)
 |Title|Original Paper Link|Paper Review|reviewer|
