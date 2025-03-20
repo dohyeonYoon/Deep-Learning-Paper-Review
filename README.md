@@ -3,6 +3,11 @@
 - 매주 본인이 읽고싶은 논문을 하나씩 리뷰하고 다른 사람들 앞에서 발표하는 스터디입니다.
 - 발표는 매주 목요일 오후 8시에 [디스코드](https://discord.gg/3EU4GXtG)에서 진행하고 있습니다.
 
+### Pose Estimation (자세 추정)
+|Title|Original Paper Link|Paper Review|reviewer|
+|------|---|---|---|
+|2D Human Pose Estimation: A Survey|[Link](https://arxiv.org/pdf/2204.07370)|[Link](https://dohyeon.tistory.com/121)|윤도현|
+
 ### Image Enhancement (이미지 개선)
 |Title|Original Paper Link|Paper Review|reviewer|
 |------|---|---|---|
