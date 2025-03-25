@@ -7,6 +7,7 @@
 |Title|Original Paper Link|Paper Review|reviewer|
 |------|---|---|---|
 |2D Human Pose Estimation: A Survey|[Link](https://arxiv.org/pdf/2204.07370)|[Link](https://dohyeon.tistory.com/121)|윤도현|
+|CrowdPose: Efficient Crowded Scenes Pose Estimation and A New Benchmark|[Link](https://arxiv.org/abs/1812.00324)|[Link](https://dohyeon.tistory.com/123)|윤도현|
 
 ### Image Enhancement (이미지 개선)
 |Title|Original Paper Link|Paper Review|reviewer|
